@@ -23,7 +23,15 @@ An Application Programming Interface (API) is a set of commands, functions, prot
 > api.openweathermap.org/data/2.5/forecast?id=524901&appid={API key}
 > With your api key they can monitor the use of calls and block  if the same passes the free use.
 
+# RESTful API design
+> Making use of the RESTful standard to create an API of the WIKI type, with title and content.
 
+## Using the Postman and Robo 3T tools
+> To include, change and delete the content within MongoDB
+
+With / GET, / POST, / PUT, / PATCH AND / DELETE routes. Understanding how routes work and using Express and Mongoose.
+
+# PT-BR
 # Projeto de uma API no padrão RESTful
 > Fazendo-se do uso do padrão RESTful para criação de uma API do tipo WIKI, com titulo e conteudo.
 
