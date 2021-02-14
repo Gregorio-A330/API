@@ -30,4 +30,5 @@ An Application Programming Interface (API) is a set of commands, functions, prot
 ## Utilizando as ferramentas Postman e Robo 3T 
 > Para incluir, alterar e deletar o conteudo dentro do MongoDB
 
-> Com as Rotas de /GET, /POST, PUT, /PATCH E /DELETE. Entendendo o funcionamento das rotas e utilização do Express e Mongoose
+Com as Rotas de /GET, /POST, /PUT, /PATCH E /DELETE. Entendendo o funcionamento das rotas e utilização do Express e Mongoose.
+
